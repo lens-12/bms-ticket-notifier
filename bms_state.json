@@ -30,16 +30,16 @@
       "date": "20260409",
       "cat": "ELITE",
       "price": "508.34",
-      "status": "2"
+      "status": "1"
     }
   },
   "dates": {
-    "20260408": "BOOKABLE",
-    "20260409": "AVAILABLE",
+    "20260409": "BOOKABLE",
     "20260410": "NOT_OPEN",
     "20260411": "NOT_OPEN",
     "20260412": "NOT_OPEN",
     "20260413": "NOT_OPEN",
-    "20260414": "NOT_OPEN"
+    "20260414": "NOT_OPEN",
+    "20260415": "NOT_OPEN"
   }
 }
