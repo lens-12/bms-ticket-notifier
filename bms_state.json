@@ -8,20 +8,140 @@
       "price": "508.34",
       "status": "1"
     },
-    "INPR|59000|20260409|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "06:30 PM",
-      "date": "20260409",
+    "PVPZ|30992|20260410|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "09:50 AM",
+      "date": "20260410",
       "cat": "ELITE",
       "price": "508.34",
-      "status": "1"
+      "status": "3"
+    },
+    "PVPZ|30993|20260410|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "01:05 PM",
+      "date": "20260410",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "3"
+    },
+    "PVPZ|30974|20260410|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "07:45 PM",
+      "date": "20260410",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "2"
+    },
+    "PVPZ|30975|20260410|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "11:10 PM",
+      "date": "20260410",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "3"
+    },
+    "INPR|59091|20260410|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "10:15 AM",
+      "date": "20260410",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "3"
+    },
+    "INPR|59092|20260410|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "04:10 PM",
+      "date": "20260410",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "3"
+    },
+    "INPR|59093|20260410|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:35 PM",
+      "date": "20260410",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "2"
+    },
+    "INPR|59094|20260410|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:05 PM",
+      "date": "20260410",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "3"
+    },
+    "PVPZ|31066|20260411|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "09:50 AM",
+      "date": "20260411",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "3"
+    },
+    "PVPZ|31067|20260411|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "01:05 PM",
+      "date": "20260411",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "2"
+    },
+    "PVPZ|31069|20260411|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "07:45 PM",
+      "date": "20260411",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "3"
+    },
+    "PVPZ|31070|20260411|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "11:10 PM",
+      "date": "20260411",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "3"
+    },
+    "INPR|59122|20260411|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "10:15 AM",
+      "date": "20260411",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "3"
+    },
+    "INPR|59124|20260411|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "04:10 PM",
+      "date": "20260411",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "3"
+    },
+    "INPR|59125|20260411|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:35 PM",
+      "date": "20260411",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "3"
+    },
+    "INPR|59126|20260411|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:05 PM",
+      "date": "20260411",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "3"
     }
   },
   "dates": {
-    "20260409": "BOOKABLE",
-    "20260410": "NOT_OPEN",
-    "20260411": "NOT_OPEN",
-    "20260412": "NOT_OPEN",
+    "20260409": "AVAILABLE",
+    "20260410": "AVAILABLE",
+    "20260411": "BOOKABLE",
+    "20260412": "AVAILABLE",
     "20260413": "NOT_OPEN",
     "20260414": "NOT_OPEN",
     "20260415": "NOT_OPEN"
