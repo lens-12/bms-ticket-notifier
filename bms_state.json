@@ -1,13 +1,5 @@
 {
   "shows": {
-    "PVPZ|30945|20260409|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "11:10 PM",
-      "date": "20260409",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "1"
-    },
     "PVPZ|30992|20260410|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
       "time": "09:50 AM",
@@ -38,7 +30,7 @@
       "date": "20260410",
       "cat": "ELITE",
       "price": "508.34",
-      "status": "3"
+      "status": "2"
     },
     "INPR|59091|20260410|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -70,7 +62,7 @@
       "date": "20260410",
       "cat": "ELITE",
       "price": "508.34",
-      "status": "3"
+      "status": "2"
     },
     "PVPZ|31066|20260411|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -78,7 +70,7 @@
       "date": "20260411",
       "cat": "ELITE",
       "price": "508.34",
-      "status": "3"
+      "status": "2"
     },
     "PVPZ|31067|20260411|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -94,7 +86,7 @@
       "date": "20260411",
       "cat": "ELITE",
       "price": "508.34",
-      "status": "3"
+      "status": "2"
     },
     "PVPZ|31070|20260411|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -110,7 +102,7 @@
       "date": "20260411",
       "cat": "ELITE",
       "price": "508.34",
-      "status": "3"
+      "status": "2"
     },
     "INPR|59124|20260411|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -118,7 +110,7 @@
       "date": "20260411",
       "cat": "ELITE",
       "price": "508.34",
-      "status": "3"
+      "status": "2"
     },
     "INPR|59125|20260411|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -126,7 +118,7 @@
       "date": "20260411",
       "cat": "ELITE",
       "price": "508.34",
-      "status": "3"
+      "status": "2"
     },
     "INPR|59126|20260411|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -138,12 +130,12 @@
     }
   },
   "dates": {
-    "20260409": "AVAILABLE",
     "20260410": "AVAILABLE",
     "20260411": "BOOKABLE",
     "20260412": "AVAILABLE",
     "20260413": "NOT_OPEN",
     "20260414": "NOT_OPEN",
-    "20260415": "NOT_OPEN"
+    "20260415": "NOT_OPEN",
+    "20260416": "NOT_OPEN"
   }
 }
