@@ -24,14 +24,6 @@
       "price": "508.34",
       "status": "2"
     },
-    "INPR|59122|20260411|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "10:15 AM",
-      "date": "20260411",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "1"
-    },
     "INPR|59124|20260411|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
       "time": "04:10 PM",
@@ -54,7 +46,7 @@
       "date": "20260411",
       "cat": "ELITE",
       "price": "508.34",
-      "status": "2"
+      "status": "1"
     }
   },
   "dates": {
